@@ -1270,6 +1270,10 @@
 	path = extensions/dbt
 	url = https://github.com/kylejbrk/zed-dbt.git
 
+[submodule "extensions/dchub-mcp-server"]
+	path = extensions/dchub-mcp-server
+	url = https://github.com/azmartone67/dchub-zed-extension.git
+
 [submodule "extensions/decorative-stitch"]
 	path = extensions/decorative-stitch
 	url = https://github.com/keithrowell/zed-theme-decorative-stitch.git

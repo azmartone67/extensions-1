@@ -1303,6 +1303,10 @@ version = "0.0.1"
 submodule = "extensions/dbt"
 version = "0.1.2"
 
+[dchub-mcp-server]
+submodule = "extensions/dchub-mcp-server"
+version = "0.1.0"
+
 [decorative-stitch]
 submodule = "extensions/decorative-stitch"
 version = "1.0.0"
